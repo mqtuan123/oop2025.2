@@ -11,3 +11,4 @@ public class HelloNameDialog {
         System.exit(0);
     }
 }
+
